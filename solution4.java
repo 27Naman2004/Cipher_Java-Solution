@@ -14,10 +14,5 @@ public class solution4 {
             System.out.printf("Discount: %.2f\n",c);
             System.out.println("Final Amount: " + (a-c));
         }
-        else{
-            System.out.println("No Discount\n");
-            System.out.println("Final Amount: " + a);
-
-        }
     }
 }
