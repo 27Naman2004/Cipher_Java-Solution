@@ -4,6 +4,7 @@ public class solution4 {
         int a = sc.nextInt();
         System.out.println("Enter age: "+a);
         int b = sc.nextInt();
+        System.out.println(a >= 18 ? "": "NOT ELIGIBLE");
         System.out.println("Enter Salary: " + b);
         boolean c = sc.nextBoolean();
         System.out.println("Any due: " + c);
