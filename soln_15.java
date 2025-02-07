@@ -19,6 +19,5 @@ public class soln_15 {
             System.out.println();
         }
 
-        scanner.close();
     }
 }
