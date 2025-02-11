@@ -11,8 +11,6 @@ public class Main {
             n = n/10; 
         }
         System.out.println(b);
-        
-        
         scanner.close();
     }
 }
